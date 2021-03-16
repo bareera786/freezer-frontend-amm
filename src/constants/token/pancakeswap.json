@@ -11,9 +11,9 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "Goose Golden Egg",
-      "symbol": "EGG",
-      "address": "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
+      "name": "FREEZER",
+      "symbol": "FREEZER",
+      "address": "0x35d81fe74D0CFC375Deba9aD093736C536794dF7",
       "chainId": 56,
       "decimals": 18
     },
